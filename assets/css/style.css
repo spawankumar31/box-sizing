@@ -1,0 +1,14 @@
+.box{
+    box-sizing: border-box;
+    width: 300px;
+    height: 300px;
+    background-color: green;
+    margin: 10px;
+    color: #fff;
+    font-size: 20px;
+    font-style: italic;
+    padding: 20px;
+    border: 2px solid#000
+    
+
+}
